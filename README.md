@@ -1,7 +1,9 @@
-# Project Name Here
+# Memoizer
 
-[![Latest Stable Version](https://poser.pugx.org/<package id here>/v/stable)](https://packagist.org/packages/<package id here>)
-[![Build Status](https://travis-ci.org/<package id here>)](https://travis-ci.org/<package id here>)
-[![codecov.io](http://codecov.io/github/<package id here>/coverage.svg?branch=master)](http://codecov.io/github/<package id here>?branch=master)
-[![Code Climate](https://codeclimate.com/github/<package id here>/badges/gpa.svg)](https://codeclimate.com/<package id here>/php-curry)
-[![License](https://poser.pugx.org/<package id here>/license)](https://packagist.org/packages/<package id here>)
+Simple PHP Memoizer class
+
+[![Latest Stable Version](https://poser.pugx.org/ganglio/Memoizer/v/stable)](https://packagist.org/packages/ganglio/Memoizer)
+[![Build Status](https://travis-ci.org/ganglio/Memoizer)](https://travis-ci.org/ganglio/Memoizer)
+[![codecov.io](http://codecov.io/github/ganglio/Memoizer/coverage.svg?branch=master)](http://codecov.io/github/ganglio/Memoizer?branch=master)
+[![Code Climate](https://codeclimate.com/github/ganglio/Memoizer/badges/gpa.svg)](https://codeclimate.com/ganglio/Memoizer)
+[![License](https://poser.pugx.org/ganglio/Memoizer/license)](https://packagist.org/packages/ganglio/Memoizer)
