@@ -30,5 +30,4 @@ class Memoizer
 
         return $this->results[$args_hash];
     }
-
 }

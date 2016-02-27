@@ -74,5 +74,4 @@ class MemoizerTest extends \PHPUnit_Framework_TestCase
             0
         );
     }
-
 }
