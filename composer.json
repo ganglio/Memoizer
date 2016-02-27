@@ -1,5 +1,5 @@
 {
-    "name": "ganglio/Memoizer",
+    "name": "ganglio/memoizer",
     "type": "library",
     "description": "Simple PHP Memoizer class",
     "keywords": ["memoize"],
